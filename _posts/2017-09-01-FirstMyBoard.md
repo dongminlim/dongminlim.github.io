@@ -33,3 +33,10 @@ Link: [Google][googlelink]
 [1]: http://example.com/ "링크제목1"
 [2]: http://example.org/ "링크제목2"
 
+##코드 블럭을 사용해 보기
+
+    - (UIInterfaceOrientation)preferredInterfaceOrientationForPresentation
+    {
+    //    return UIInterfaceOrientationPortrait;
+        return (UIInterfaceOrientationPortrait | UIDeviceOrientationLandscapeRight);
+    }
