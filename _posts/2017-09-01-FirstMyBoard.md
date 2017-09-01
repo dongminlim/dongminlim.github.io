@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: 안녕하세요 첫번째 글을 올려봅니다.
 date: 2013-09-01 14:11:00
 ---
 
