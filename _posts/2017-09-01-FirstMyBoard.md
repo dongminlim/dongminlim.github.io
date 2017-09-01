@@ -10,7 +10,7 @@ date: 2017-09-01 14:11:00
 
 >반갑습니다. 인용문구 입니다
 
-* 하하 
+* 하하
 
 
 과연 올라갔나요 바로 올라가나요??
@@ -24,3 +24,12 @@ date: 2017-09-01 14:11:00
 
 Link: [Google][googlelink]
 [googlelink]: https://google.com "Go google"
+
+
+[링크](http://example.com "링크제목").
+
+[링크1][1] 과 [링크2][2].
+
+[1]: http://example.com/ "링크제목1"
+[2]: http://example.org/ "링크제목2"
+
