@@ -4,9 +4,9 @@ title: 안녕하세요 첫번째 글을 올려봅니다.
 date: 2017-09-01 14:11:00
 ---
 
-#나의 첫번째 글입니다.
+# 나의 첫번째 글입니다. #
 
-## 안녕하세요
+## 안녕하세요 ##
 
 >반갑습니다. 인용문구 입니다
 
@@ -33,7 +33,9 @@ Link: [Google][googlelink]
 [1]: http://example.com/ "링크제목1"
 [2]: http://example.org/ "링크제목2"
 
-##코드 블럭을 사용해 보기
+
+
+## 코드 블럭을 사용해 보기 ##
 
     - (UIInterfaceOrientation)preferredInterfaceOrientationForPresentation
     {
